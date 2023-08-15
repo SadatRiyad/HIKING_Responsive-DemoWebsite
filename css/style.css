@@ -880,6 +880,9 @@ html{
     font-weight: 600;
     transition:all .3s ease-out;
 }
+.footer .inner-footer .start span .fa{
+    color: #ff2e17;
+}
 .footer .inner-footer .start span:hover{
     opacity: 1;
     color: #ff2e17;
